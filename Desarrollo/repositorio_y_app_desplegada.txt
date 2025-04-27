@@ -1,0 +1,5 @@
+Link del repositorio en GitHub: https://github.com/Flying-Spaghetti-Monster69/uni-on
+
+En el repositorio esta la aplicación hosteada con documentación
+
+Link de la pagina web funcional (si el login no funciona use datos móviles, no use la red CampusEafit): https://uni-on.vercel.app/
